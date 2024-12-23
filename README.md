@@ -4,6 +4,7 @@
   <li>提供使用者預訂餐點</li>
   <li>提供管理者管理食材、商品、訂單</li>
 </ol>
+
 <h2>環境設定說明</h2>
 <ol>
   <li>開發工具</li>
@@ -12,7 +13,6 @@
   <li>版本控制工具: Git</li>
   <li>建置工具: Maven</li>
 </ul>
-  
   <li>後端技術</li>
   <ul>
   <li>Java JDK: 版本 17 以上</li>
@@ -20,20 +20,24 @@
   <li>資料庫連線池: HikariCP</li>
   <li>資料存取技術: Spring Data JPA</li>
 </ul>
-
   <li>資料庫</li>
   <ul>
   <li>資料庫類型: SQL Server</li>
 </ul>
-
   <li>REST API 測試工具</li>
   <ul>
   <li>Postman：用於測試 API 介面</li>
 </ul>
 </ol>
 
-
 <h2>執行步驟</h2>
+<ol>
+  <li>先到SQL資料夾，下載sql檔案並執行，建立資料庫並輸入資料</li>
+  <li>java-sushi資料夾為後端程式碼</li>
+  <li>front-for-user資料夾為前端程式碼，提供使用者使用的，建議埠號為5173</li>
+  <li>front-for-admin資料夾為前端程式碼，提供管理者使用的，建議埠號為5174</li>
+  <li>請參考下方測試方式，並開始測試</li>
+</ol>
 <h2>測試方式</h2>
 
 
