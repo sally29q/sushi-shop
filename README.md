@@ -34,7 +34,7 @@
 <ol>
   <li>先到SQL資料夾，下載sql檔案並執行，建立資料庫並輸入資料</li>
   <ul>
-    <li>sushi＿pic資料夾是商品照片，可自行決定要不要輸入demo_sushi_images.sql的資料</li>
+    <li>sushi＿pic資料夾是商品照片，可自行決定要不要輸入demo_sushi_images.sql的資料，但圖片路徑記得換成自己的</li>
     <li>不一定要輸入demo_orders&order_details.sql的資料，也可以測試網站的時候輸入</li>
   </ul>
   <li>java-sushi資料夾為後端程式碼</li>
