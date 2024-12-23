@@ -39,6 +39,16 @@
   <li>請參考下方測試方式，並開始測試</li>
 </ol>
 <h2>測試方式</h2>
+<ol>
+  <li>資料庫完成後會有以下這些資料(product_ingredients表資料太多不展示)</li>
+  ![image](https://github.com/sally29q/sushi-shop/blob/c301a1a2894ab96f517c1f8aebc204aa107095c1/pic/%E5%95%86%E5%93%81%E6%95%B8%E6%93%9A.png)
+  ![image](https://github.com/sally29q/sushi-shop/blob/c301a1a2894ab96f517c1f8aebc204aa107095c1/pic/%E9%A3%9F%E6%9D%90%E6%95%B8%E6%93%9A.png)
+  ![image](https://github.com/sally29q/sushi-shop/blob/c301a1a2894ab96f517c1f8aebc204aa107095c1/pic/%E8%A8%82%E5%96%AE%E6%95%B8%E6%93%9A.png)
+  ![image](https://github.com/sally29q/sushi-shop/blob/c301a1a2894ab96f517c1f8aebc204aa107095c1/pic/%E8%A8%82%E5%96%AE%E6%98%8E%E7%B4%B0%E6%95%B8%E6%93%9A.png)
+  <li>run 後端程式碼</li>
+  <li>開啟使用者網頁測試</li>
+  <li>開啟管理者網頁測試</li>
+</ol>
 
 
 
